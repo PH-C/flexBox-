@@ -41,7 +41,7 @@ justify-content:
 ###### 子项目如何在交叉轴上排列呢？
 > 我们可以通过设置align-item设置子项目在交叉轴上的排列方式
 
-justify-content:
+align-item:
 - flex-start(向交叉轴起始位置对齐)| 
 - flex-end(向交叉轴终点位置对齐) | 
 - center(交叉轴中心位置对齐) |  
